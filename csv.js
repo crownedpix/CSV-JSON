@@ -1,3 +1,4 @@
+// Compiled in Quantelas
 function CSVToArray(strData, strDelimiter) {
     strDelimiter = (strDelimiter || ",");
     var objPattern = new RegExp((
